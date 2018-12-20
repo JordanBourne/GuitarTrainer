@@ -1,0 +1,19 @@
+{
+  "name": "guitartrainer",
+  "version": "0.1.0",
+  "description": "Get Better At Guitar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanBourne/GuitarTrainer.git"
+  },
+  "author": "Jordan Bourne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanBourne/GuitarTrainer/issues"
+  },
+  "homepage": "https://github.com/JordanBourne/GuitarTrainer#readme"
+}
